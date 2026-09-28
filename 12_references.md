@@ -1,0 +1,123 @@
+## 十二、參考資料
+
+以下皆為研究時（2026-09-27）實際開啟過的頁面。更完整的清單（含每份原始研究報告開啟的所有網址）在 01_research_raw/ 的四個檔案中。
+
+### 學術論文與綜述
+
+- Fettweis (1986) — [Wave Digital Filters: Theory and Practice](https://ccrma.stanford.edu/~jingjiez/portfolio/gtr-amp-sim/pdfs/Wave%20Digital%20Filters%20Theory%20and%20Practice.pdf)
+- Koren (1996) — [Improved vacuum tube models for SPICE simulations](https://www.normankoren.com/Audio/Tubemodspice_article.html)
+- Farina (2000) — [Simultaneous measurement of impulse response and distortion with a swept-sine technique](https://www.aes.org/e-lib/browse.cfm?elib=10211)
+- Karjalainen & Pakarinen (2006) — [Wave digital simulation of a vacuum-tube amplifier](https://research.aalto.fi/en/publications/wave-digital-simulation-of-a-vacuum-tube-amplifier/)
+- Yeh (2009) — [Digital Implementation of Musical Distortion Circuits by Analysis and Simulation（Stanford PhD）](https://ccrma.stanford.edu/~dtyeh/papers/DavidYehThesissinglesided.pdf)
+- Pakarinen & Yeh (2009) — [A review of digital techniques for modeling vacuum-tube guitar amplifiers](https://direct.mit.edu/comj/article/33/2/85/94251)
+- Yeh, Abel, Smith (2010) — [Automated physical modeling of nonlinear audio circuits, Part I](https://ccrma.stanford.edu/~dtyeh/papers/yeh10_taslp.pdf)
+- Novák et al. (2010) — [Nonlinear system identification using exponential swept-sine signal](https://ieeexplore.ieee.org/document/5299278/)
+- Novák, Simon, Lotton (2010) — [Synchronized swept-sine method for audio effects](https://link.springer.com/article/10.1155/2010/793816)
+- Macák & Schimmel (2011) — [Real-time guitar preamp simulation using modified blockwise method](https://link.springer.com/article/10.1155/2011/629309)
+- Covert & Livingston (2013) — [A vacuum-tube guitar amplifier model using a recurrent neural network](https://ieeexplore.ieee.org/document/6567472)
+- Eichas & Zölzer (2016) — [Black-box modeling of distortion circuits with block-oriented models](https://www.academia.edu/28440297/)
+- Eichas, Möller, Zölzer (2017) — [Block-oriented gray box modeling of guitar amplifiers](https://dafx17.eca.ed.ac.uk/papers/DAFx17_paper_35.pdf)
+- Schmitz & Embrechts (2017) — [Hammerstein kernels identification by sine sweep](https://orbi.uliege.be/handle/2268/216243)
+- Eichas & Zölzer (2018) — [Virtual analog modeling of guitar amplifiers with Wiener-Hammerstein models](https://www.hsu-hh.de/ant/wp-content/uploads/sites/699/2018/04/Eichas_VA_Modeling_of_guitar_amps_with_WH_models.pdf)
+- Zhang et al. (2018) — [A vacuum-tube guitar amplifier model using LSTM networks](https://ieeexplore.ieee.org/document/8479039/)
+- Schmitz & Embrechts (2018) — [Real-time emulation of a tube amplifier with LSTM](https://arxiv.org/abs/1804.07145)
+- Damskägg, Juvela, Thuillier, Välimäki (2019) — [Deep learning for tube amplifier emulation](https://arxiv.org/abs/1811.00334)
+- Wright, Damskägg, Välimäki (2019) — [Real-time black-box modelling with recurrent neural networks](https://www.dafx.de/paper-archive/2019/DAFx2019_paper_43.pdf)
+- Damskägg, Juvela, Välimäki (2019) — [Real-time modeling of audio distortion circuits with deep learning](https://research.aalto.fi/en/publications/real-time-modeling-of-audio-distortion-circuits-with-deep-learnin/)
+- Wright, Damskägg, Juvela, Välimäki (2020) — [Real-time guitar amplifier emulation with deep learning](https://www.mdpi.com/2076-3417/10/3/766)
+- Wright & Välimäki (2020) — [Perceptual loss function for neural modelling of audio systems](https://arxiv.org/abs/1911.08922)
+- Düvel, Kopiez, Wolf, Weihe (2020) — [Confusingly similar: Kemper Profiling Amp listening test](https://journals.sagepub.com/doi/full/10.1177/2059204320901952)
+- Kuznetsov, Parker, Esqueda (2020) — [Differentiable IIR filters for machine learning applications](https://www.dafx.de/paper-archive/2020/proceedings/papers/DAFx2020_paper_52.pdf)
+- Esqueda, Kuznetsov, Parker (2021) — [Differentiable white-box virtual analog modeling](https://dafx.de/paper-archive/2021/proceedings/papers/DAFx20in21_paper_39.pdf)
+- Steinmetz & Reiss (2022) — [Efficient neural networks for real-time analog compression](https://arxiv.org/abs/2102.06200)
+- Vanhatalo et al. (2022) — [A review of neural network-based emulation of guitar amplifiers](https://www.mdpi.com/2076-3417/12/12/5894)
+- Comunità et al. (2023) — [Time-varying feature modulation](https://arxiv.org/abs/2211.00497)
+- Wright, Välimäki, Juvela (2023) — [Adversarial guitar amplifier modelling with unpaired data](https://arxiv.org/abs/2211.00943)
+- Miklánek, Wright, Välimäki, Schimmel (2023) — [Neural grey-box guitar amplifier modelling with limited data](https://www.dafx.de/paper-archive/2023/DAFx23_paper_52.pdf)
+- Neural DSP researchers (2024) — [arXiv 2403.08559](https://arxiv.org/pdf/2403.08559)
+- Comunità, Steinmetz, Reiss (2025) — [Differentiable black-box and gray-box modeling of nonlinear audio effects](https://www.frontiersin.org/journals/signal-processing/articles/10.3389/frsip.2025.1580395/full)
+- PANAMA (2025) — [Parametric neural amp models from few settings](https://arxiv.org/html/2509.26564v1)
+- Atkinson (2025) — [Slimmable NAM](https://arxiv.org/html/2511.07470v1)
+- Hotz (TU Graz, 2011) — [Tube amp modeling overview](https://www2.spsc.tugraz.at/www-archive/downloads/tube_amp_modeling.pdf)
+
+### 專利
+
+- [US 4,995,084 — Pritchard, Semiconductor emulation of tube amplifiers](https://patents.google.com/patent/US4995084A/en)
+- [US 5,789,689 — Line 6, Tube modeling programmable digital guitar amplification system](https://patents.google.com/patent/US5789689A/en)
+- [US 8,796,530 B2 — Kemper, Musical instrument with acoustic transducer](https://patents.google.com/patent/US8796530B2/en)
+- [Christoph Kemper 專利列表（Justia）](https://patents.justia.com/inventor/christoph-kemper)
+
+### NAM、A2 與 TONE3000
+
+- [The History of NAM](https://www.neuralampmodeler.com/post/the-history-of-nam)
+- [Architecture "A2"](https://www.neuralampmodeler.com/post/architecture-a2)
+- [A2 is released](https://www.neuralampmodeler.com/post/a2-is-released)
+- [Let's talk about NAM-to-X](https://www.neuralampmodeler.com/post/let-s-talk-about-nam-to-x)
+- [第一個公開的參數化 NAM（ParametricOD）](https://www.neuralampmodeler.com/post/the-first-publicly-available-parametric-neural-amp-model)
+- [NAM 訓練器 GitHub](https://github.com/sdatkinson/neural-amp-modeler)
+- [NAM 外掛 GitHub](https://github.com/sdatkinson/NeuralAmpModelerPlugin)
+- [.nam 檔案格式文件](https://neural-amp-modeler.readthedocs.io/en/latest/model-file.html)
+- [TONE3000：Announcing A2](https://www.tone3000.com/blog/introducing-neural-amp-modeler-nam-architecture-2-a2)
+- [TONE3000：NAM A2 完整指南](https://www.tone3000.com/guides/nam-a2-the-complete-guide)
+- [TONE3000：ToneHunt 更名](https://www.tone3000.com/blog/tonehunt-is-now-tone3000)
+- [TONE3000：API](https://www.tone3000.com/blog/introducing-the-tone3000-api)
+- [TONE3000：開源外掛](https://www.tone3000.com/blog/tone3000-launches-free-nam-a2-plugin)
+- [TONE3000：Atkinson 訪談](https://www.tone3000.com/blog/ai-guitar-tone-interview-neural-amp-modeler-inventor-steven-atkinson)
+- [TONE3000 Capture](https://www.tone3000.com/capture)
+- [A2 MUSHRA 原始資料](https://github.com/tone-3000/a2-mushra-data)
+- [NAM 參考踏板設計](https://github.com/tone-3000/nam-pedal)
+- [ToneHunt 原始開源 repo](https://github.com/olilarkin/tonehunt)
+- [Guitar World：NAM A2 報導](https://www.guitarworld.com/gear/amp-modeler-pedals/tone3000-nam-architecture-2)
+- [gearnews：NAM 指南](https://www.gearnews.com/neural-amp-modeler-guide-guitar/)
+- [TONE3000：HeadRush 支援 NAM](https://www.tone3000.com/blog/headrush-nam-tone3000)
+
+### 廠商與產品
+
+- [Line 6 時間軸](https://line6.com/timeline/)
+- [Line 6 Helix Stadium](https://line6.com/helix-stadium/)
+- [Line 6 Ben Adrian 談元件級建模](https://blog.line6.com/2025/05/28/ben-adrian-on-the-art-and-craft-of-component-modeling/)
+- [Sweetwater：Proxy 指南](https://www.sweetwater.com/sweetcare/articles/line-6-helix-stadium-proxy-cloning-engine-guide/)
+- [Fractal Axe-Fx II Tone Match 手冊](https://www.fractalaudio.com/downloads/manuals/axe-fx-2/Axe-Fx-II-Tone-Match-Manual.pdf)
+- [Kemper Profiler MK 2](https://www.kemper-amps.com/news/95/Introducing-the-all-new-KEMPER-PROFILER-MK-2)
+- [Premier Guitar：Kemper Profiling 2.0](https://www.premierguitar.com/news/kemper-profiling-technology-20)
+- [Guitar World：Kemper Liquid Profiling](https://www.guitarworld.com/news/kemper-liquid-profiling-launch)
+- [Neural DSP：TINA](https://neuraldsp.com/quad-cortex-updates/introducing-tina)
+- [Neural DSP：Capture V2](https://neuraldsp.com/news/introducing-neural-capture-version-2)
+- [Neural DSP：建模技術](https://neuraldsp.com/news/neural-dsp-amplifier-modeling-technology)
+- [IK Multimedia TONEX](https://www.ikmultimedia.com/products/tonex/)
+- [Guitar World：Positive Grid BIAS X](https://www.guitarworld.com/gear/plugins-apps/positive-grid-bias-x-launch)
+- [Premier Guitar：Positive Grid Spark PEDAL](https://www.premierguitar.com/news/positive-grid-announces-spark-pedal)
+- [Sound On Sound：Positive Grid BIAS（Amp Match）](https://www.soundonsound.com/reviews/positive-grid-bias)
+- [Two Notes Genome 2](https://www.two-notes.com/en/discover-genome-2/)
+- [Two Notes DynIR](https://www.two-notes.com/en/dyn-ir/)
+- [Celestion IR 發表](https://celestion.com/our-news/celestion-introduces-their-revolutionary-line-of-impulse-responses-irs/)
+
+### 歷史與媒體報導
+
+- [Wikipedia：Amplifier modeling](https://en.wikipedia.org/wiki/Amplifier_modeling)
+- [guitar.com：Tech 21 SansAmp 歷史](https://guitar.com/features/history/the-history-of-tech-21-and-the-sansamp-how-a-hobbyist-engineer-changed-guitar-pedals-forever/)
+- [guitar.com：Rockman 歷史](https://guitar.com/features/history/how-the-rockman-revolutionised-guitar-tone-and-changed-recording-forever/)
+- [Sound On Sound：Roland VG-8](https://www.soundonsound.com/reviews/roland-vg8)
+- [Sound On Sound：Line 6 POD](https://www.soundonsound.com/reviews/line-6-pod)
+- [Sound On Sound：Line 6 Amp Farm](https://www.soundonsound.com/reviews/line-6-farm)
+- [Premier Guitar：POD 十年](https://www.premierguitar.com/gear/10-years-of-the-pod)
+- [KVR：Marcus Ryle 訪談](https://www.kvraudio.com/interviews/innovation-driver-interview-with-marcus-ryle-22266)
+- [Cliff Chase 訪談](https://guitarmessenger.com/cliff-chase-interview-fractal-audio/)
+- [Sound On Sound：Kemper Profiler 評測](https://www.soundonsound.com/reviews/kemper-profiling-amplifier)
+- [Sound On Sound：Sony DRE-S777](https://www.soundonsound.com/reviews/sony-dre-s777)
+- [Guitar World：What are impulse responses](https://www.guitarworld.com/gear/plugins-apps/what-are-impulse-responses)
+- [Alex Skolnick：The end of amps?](https://alexskolnick.substack.com/p/the-end-of-amps)
+
+### 論壇與社群觀點
+
+- [Neural DSP 論壇：Modeling vs captures](https://unity.neuraldsp.com/t/modeling-vs-captures-i-am-not-clear-on-this/10743)
+- [Kemper 論壇：modeler 與 profiler 的差別](https://forum.kemper-amps.com/forum/thread/54173-understanding-the-differences-between-modelers-and-profilers/)
+- [Kemper 論壇：Liquid Profiles 深入說明](https://forum.kemper-amps.com/forum/thread/64273-in-depth-information-about-liquid-profiles/)
+- [Kemper 論壇：NAM 免費 profiler 討論（2023）](https://forum.kemper-amps.com/forum/thread/59708-neural-amp-modeler-a-free-amp-profiler/)
+- [The Gear Forum：Liquid Profiling 初體驗](https://thegearforum.com/threads/kemper-liquid-profiling-first-look.2733/)
+- [The Gear Forum：A2 盲測討論與重新分析](https://thegearforum.com/threads/neural-amp-modeler-a2-beats-neural-dsp-v2-tonex-and-line6-in-blind-listening-tests-by-a-lot.11463/)
+- [Fractal 論壇：modeler 缺少 amp feel？](https://forum.fractalaudio.com/threads/what-do-people-mean-when-they-say-modelers-lack-the-amp-feel.191362/)
+- [rec.music.makers.guitar（2005）](https://groups.google.com/g/rec.music.makers.guitar/c/hy_GzYMZh0o)
+- [ilikekillnerds：Proxy 評論](https://ilikekillnerds.com/2026/03/07/helix-stadium-proxy-might-be-smarter-than-the-capture-arms-race/)
+
+註：Reddit 與 The Gear Page 在研究時無法開啟，因此沒有引用。
